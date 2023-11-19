@@ -1,5 +1,5 @@
 * {
-    border: 1px solid gold;
+    border: none;
   }
   
   body {
@@ -68,3 +68,7 @@
     width: 500px;
   }
   
+  article.weather {
+    height: 250px
+  }
+
